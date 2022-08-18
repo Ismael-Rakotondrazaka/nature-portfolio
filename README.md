@@ -1,4 +1,4 @@
-# fiber
+# Nature Portfolio
 
 ## Project description
 This project is an integration of the template **Nature Portfolio** found on [W3Schools](https://www.w3schools.com/w3css/tryw3css_templates_portfolio.htm)
@@ -26,6 +26,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
