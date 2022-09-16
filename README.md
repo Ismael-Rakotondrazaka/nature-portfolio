@@ -1,7 +1,8 @@
 # Nature Portfolio
 
 ## Project description
-This project is an integration of the template **Nature Portfolio** found on [W3Schools](https://www.w3schools.com/w3css/tryw3css_templates_portfolio.htm)
+This project is an integration of the template **Nature Portfolio** found on [W3Schools](https://www.w3schools.com/w3css/tryw3css_templates_portfolio.htm)\
+Live: https://nature-portfolio.onrender.com
 
 ### Technology used
 * [Vue.js](https://vuejs.org/)
